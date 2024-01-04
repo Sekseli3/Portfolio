@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/akseli-tuominen-10ab78294/',
+    linkedin: 'Akseli Tuominen',
     telegram: 'AkseliT',
     website: 'https://Sekseli3.github.io/Portfolio/',
     email: 'akseli2001.tuominen@gmail.com',
