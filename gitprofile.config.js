@@ -18,7 +18,6 @@ const config = {
   },
   resume: {
     fileUrl:
-      CV2024.pdf
       'https://raw.githubusercontent.com/Sekseli3/Portfolio/main/CV2024.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
