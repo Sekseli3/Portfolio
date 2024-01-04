@@ -18,7 +18,8 @@ const config = {
   },
   resume: {
     fileUrl:
-      'blob:https://github.com/d9341112-4c34-4f68-944c-a26019e292ab', // Empty fileUrl will hide the `Download Resume` button.
+      CV2024.pdf
+      'https://raw.githubusercontent.com/Sekseli3/Portfolio/main/CV2024.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
